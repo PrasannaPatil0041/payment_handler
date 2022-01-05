@@ -1,0 +1,20 @@
+.expenseElement {
+  background-color: rgb(28, 37, 27);
+  box-shadow: 0px 0px 44px rgba(0, 0, 0, 0.4);
+  padding: 10px;
+  border-radius: 20px;
+  width: 850px;
+}
+
+.Element {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.defaultMessage {
+  color: white;
+  text-align: center;
+  font-weight: 700;
+  font-size: 20px;
+}

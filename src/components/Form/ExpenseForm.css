@@ -1,0 +1,64 @@
+form {
+  width: 850px;
+  height: 220px;
+  background-color: rgb(106, 178, 238);
+  padding: 20px;
+  margin: 20px;
+  border-radius: 30px;
+}
+
+.element1 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 650px;
+  height: 100px;
+}
+
+.element2 {
+  display: flex;
+  justify-content: space-between;
+  align-self: center;
+  width: 700px;
+  height: 80px;
+}
+.new-expense_control {
+  width: 300px;
+  margin: 10px;
+}
+
+.buttonUpper {
+  outline: none;
+  border: none;
+  padding: 13px 30px;
+  font-weight: 800;
+  align-self: flex-end;
+  justify-self: flex-end;
+  background-color: rgb(15, 13, 107);
+  color: white;
+  border-radius: 13px;
+}
+input {
+  margin-left: 20px;
+}
+
+.buttonUpper2 {
+  outline: none;
+  border: none;
+  padding: 13px 30px;
+  font-weight: 800;
+  align-self: flex-end;
+  justify-self: flex-end;
+  background-color: rgb(15, 13, 107);
+  color: white;
+  border-radius: 13px;
+  transform: translateX(50px);
+}
+
+.element3 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 650px;
+  height: 100px;
+}

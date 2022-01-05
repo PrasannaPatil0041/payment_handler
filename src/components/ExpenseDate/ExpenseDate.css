@@ -1,0 +1,22 @@
+.expensedate {
+  border: 2px solid white;
+  border-radius: 20px;
+  width: 90px;
+  height: 78px;
+  text-align: center;
+  background-color: black;
+  padding: 6px;
+}
+.expenseday {
+  transform: scale(1.4);
+  margin-top: 4px;
+  font-weight: 700;
+}
+.expensemonth {
+  transform: scale(0.9);
+  opacity: 0.96;
+}
+.expenseyear {
+  transform: scale(0.9);
+  opacity: 0.8;
+}
